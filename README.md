@@ -1,6 +1,6 @@
 # 🎬 MovieComparison
 
-> A dynamic web application that allows users to search for two movies simultaneously and compares their key statistics, such as Box Office, IMDb ratings, and Metascore side-by-side.
+> A dynamic web application that allows users to search for two movies simultaneously and compares their key statistics, such as Box Office, release year, budget etc.
 
 ## 📌 About The Project
 MovieComparison is an interactive web tool built to solve the ultimate dilemma of deciding what to watch. By utilizing the OMDb API, the app retrieves complex movie data on-the-fly and applies comparative logic to highlight which film ranks higher in specific categories. This project showcases proficiency in DOM manipulation, asynchronous programming, and data rendering without external framework overhead.
